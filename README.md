@@ -1,4 +1,4 @@
-# 22BCS_NTPP_DL-901-B
+# Renuka rattan-e13572/22BCS_NTPP_DL-901-B
 # ARRAY PROBLEMS
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/<br>
 https://www.geeksforgeeks.org/problems/insertion-sort/1<br>
